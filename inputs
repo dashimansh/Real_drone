@@ -1,0 +1,16 @@
+YawLeftGamepad Left ShoulderActionYawRightGamepad Right ShoulderActionKeyYawLeftQActionKeyYawRightEActionToggleCameraGamepad Face Button Bottom (A)ActionToggleInputModeGamepad Special Left (Back)ActionBrakeSpace BarActionBrakeGamepad Face Button Top (Y)ActionClearTrailCActionLoiterLActionLoiterGamepad Face Button Left (X)ActionRTLRActionRTLGamepad Face Button Right (B)ActionAddWaypointFActionStartWaypointGActionClearWaypointsHAction
+
+
+
+
+✅ ToggleInputMode → Gamepad Special Left
+✅ Brake           → Space Bar
+✅ Brake           → Gamepad Face Button Top
+✅ ClearTrail      → C
+✅ Loiter          → L
+✅ Loiter          → Gamepad Face Button Left
+✅ RTL             → R
+✅ RTL             → Gamepad Face Button Right
+✅ AddWaypoint     → F
+✅ StartWaypoint   → G
+✅ ClearWaypoints  → H
